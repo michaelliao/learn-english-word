@@ -6,7 +6,7 @@
 
 下载到用户根目录；
 
-安装Python3，Flask，运行`app.run`，在本地浏览器访问：
+安装Python3，Flask，运行`app.sh`，在本地浏览器访问：
 
 http://localhost:5000
 
