@@ -9,3 +9,7 @@
 安装Python3，Flask，运行`app.run`，在本地浏览器访问：
 
 http://localhost:5000
+
+# APP UI
+
+![](https://raw.githubusercontent.com/michaelliao/learn-english-word/master/screenshot.png)
